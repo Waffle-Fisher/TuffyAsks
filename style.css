@@ -1,0 +1,25 @@
+body {
+    margin-top: 40px;
+    background-color: #8ecae6;
+}
+  
+.header {
+    background-color: #219eb6;
+    font-size: 2rem;
+}
+
+.response {
+    margin: 10px;
+    background-color: #fb8500;
+    font-size: 1rem;
+}
+
+.post {
+    background-color: #ffb703;
+    font-size: 2rem;
+}
+.break {
+    margin: 10px;
+    padding: 5px;
+    background-color: black;
+}
