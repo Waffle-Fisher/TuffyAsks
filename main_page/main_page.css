@@ -1,0 +1,19 @@
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 35vh; /* These two lines are counted as one :-)       */
+  
+    display: flex;
+    align-items: center;
+  }
+
+.search-bar{
+    display: table-cell;
+    vertical-align: middle;
+    margin-top: 200px;
+    text-align: center;
+}
+
+  .navbar-brand {
+    font-family:Verdana !important;
+    font-size: 50px;
+  }
